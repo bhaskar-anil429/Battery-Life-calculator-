@@ -22,7 +22,7 @@ function calculateBatteryLife(n_tx, n_pulse, C_battery) {
 }
 
 // Example usage
-let n_tx = 2;      // times per hour 
+let n_tx = 2;      // data sample per hour 
 let n_pulse = 24;   // times per day 
 let C_battery = 9000;  // mAh // 6AA batteries 
 
